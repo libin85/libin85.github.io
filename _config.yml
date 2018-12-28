@@ -1,18 +1,17 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
+title: Libin Joseph
+description: 'Libin Joseph - Software Development, Xamarin'
+url: 'http://libinjoseph.com/jekyll-uno'
 baseurl: '/jekyll-uno'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Libin Joseph'
+  email: libin.joseph@outlook.com
+  twitter_username: libinjoseph10
+  github_username:  libin85
+  linkedin_username:  libinjoseph
 
 defaults:
   -
