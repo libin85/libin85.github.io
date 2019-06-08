@@ -5,9 +5,9 @@ comments: true
 categories: [Xamarin]
 tags: [Xamarin, SQLite]
 ---
-SQLite is one of the most popular database among software developers for almost two decades. Since its inception in year 2000, it has been the go-to option for building small to medium size applications that don't require a full-blown database like SQL Server or MySQL. SQLite database can be served from the disk directly and does not need any installation.
+SQLite has been one of the most popular databases among software developers for almost two decades. Since its inception in year 2000, it has been the go-to option for building small to medium size applications that don't require a full-blown database like SQL Server or MySQL. What I really like about SQLite is that the database can be served from the disk directly and does not need any installation.
 
-But what makes SQLite popular among mobile developers is that its pretty light weight, and it comes in-built in both Android and iOS devices. There are several tools available to view/manage data in SQLite, and one that I use day to day is [DB Browser for SQLite][dbBrowser]. In todays post, we are going to look how can we pull the database from an Android APK and  view its data. 
+But what makes SQLite popular among mobile developers is it being pretty light weight, and that it comes in-built in both Android and iOS devices. There are several tools available to view/manage data in SQLite. The one that I use day to day is [DB Browser for SQLite][dbBrowser]. In todays post, we are going to look at how we can pull the database from an Android APK and  view its data. 
 
 ##### **Open the ADB Command Prompt**
 
@@ -26,15 +26,15 @@ adb shell
 ##### **Then connect to the APK installed on device** 
 ```kotlin
 run-as com.companyname.appname    //com.companyname.appname is your apk package name.
-cd files                          //move to the files folder, where the db exists.
+cd files                          //to move to files folder where the db exists.
 ls                                //this command will list all the files in this folder.
 ```
-`Note: You can find this in the Android Manifest file.`
+`Note: You can find the apk package name in the Android Manifest file.`
 
-Once we are in the `files` folder,look for the SQLite database in here. The database file name would have extension of either `db3` or `sqlite3`  
+Once we are in the `files` folder, look for the SQLite database here. The database file name would have extension of either `db3` or `sqlite3`  
 
 ##### **Copy to the sdcard**.
-Once we have located the db file, we can copy it any location in the sd card. Please ensure that the location in the sdcard exists. 
+Now we have located the db file, we can copy it to any location in the sd card. Please ensure that the location in the sdcard exists. 
 ```kotlin
 cp sample.db3 /sdcard/download/sample.db3
 ```
