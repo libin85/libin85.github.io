@@ -1,6 +1,6 @@
 ---
 title:  "Access SQLite database from an Android device"
-date:   2019-05-20 20:30:00
+date:   2019-06-07 20:30:00
 comments: true
 categories: [Xamarin]
 tags: [Xamarin, SQLite]
