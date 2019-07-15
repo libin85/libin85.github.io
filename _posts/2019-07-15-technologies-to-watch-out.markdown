@@ -3,7 +3,7 @@ title:  "Four emerging technologies for C# developers"
 date:   2019-06-15 10:30:00
 comments: true
 categories: [Xamarin]
-tags: [Xamarin, Shell]
+tags: [C#, Emerging, GRPC, WebAssembly]
 ---
 
 As software developers, we are very fortunate to work on solutions that impact thousands of people, if not millions. The reach of technology has expanded to the length and breadth of this world and beyond over the last decade.  Its no more a luxury for the elite community, but a necessity for everyone. This growth has made it necessary to make further improvements to our existing tools, platforms and frameworks, and also have given way to few new great solutions.
