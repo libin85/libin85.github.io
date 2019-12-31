@@ -1,5 +1,5 @@
 ---
-title:  "A dive into Shell - Part 1"
+title:  "A dive into Shell"
 date:   2019-06-15 10:30:00
 comments: true
 categories: [Xamarin]
