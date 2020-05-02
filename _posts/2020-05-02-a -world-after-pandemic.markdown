@@ -15,11 +15,11 @@ So what might be these new changes, and are we ready for it?
 ##### **Work from home**
 
 [youtube]: https://www.youtube.com/watch?v=jzbSgBBrbI8
-This should be one of the easiest changes that we could all adopt. Most of us have got a fair understanding of how it works  and have experienced it either during this period or in the past. So does that mean there are no more offices? Absolutely not! We most likely have small and more functional office spaces that would act like a hub, where team members could come in as needed. I would recommend you to view this [video][youtube] where my good friend Nish Anil talks about working from home.
+This should be one of the easiest changes that we could all adopt. Most of us have got a fair understanding of how it works  and have experienced it either during this period or in the past. So does that mean there are no more offices? Absolutely not! We most likely have small and more functional office spaces that would act like a hub, where team members could come in as needed. I would recommend you to watch this [video][youtube] where my good friend Nish Anil talks about working from home. He shares a few good tips in the video.
 
 ##### **New norms for monetization**
 
-Work from home definitely brings a lot of benefits to everyone but at the same time it also add new challenges. And one of the main ones that I foresee is business owners would find it hard to evaluate the performance of their employee and making people accountable for their work. We all need to accept that not everyone our self-motivated and this would lead smart entrepreneurs to look into newer ways to monetize their staff. That might be a combination of existing salary system with a combination of other incentives to motivate people to work genuinely and on time.
+Work from home definitely brings a lot of benefits to everyone involved, but at the same time it also add new challenges. And one of the main ones that I foresee is business owners would find it hard to evaluate the performance of their employee and making people accountable for their work. We all need to accept that not everyone our self-motivated and this would lead smart entrepreneurs to look into newer ways to monetize their staff. That might be a combination of existing salary system with a combination of other incentives to motivate people to work genuinely and on time.
 
 ##### **Flat hierarchy**
 
