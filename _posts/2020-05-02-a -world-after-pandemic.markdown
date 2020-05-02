@@ -27,10 +27,10 @@ With the above changes in place, most organizations would see it beneficial to f
 
 ##### **Health policies everywhere**
 
-Health and safety guidelines are an important aspect of every organization. But in reality not many of us give much attention to it. But with the increasing number of health issues that we see, it's likely that companies around the world would take this matter much serious and incorporate the health best practices in every aspects of the organization. It would definitely be more than a yearly checklist.
+Health and safety guidelines are an important aspect of every organization. But in reality not many of us give much attention to it. With the increasing number of health issues that we see, it's likely that companies around the world would take this matter much serious and incorporate the health best practices in every aspects of the organization. It would definitely be more than a yearly checklist.
 
 
-Will be really great to know what you think will be out future. Share your comments and thoughts. Stay safe everyone!
+Will be really great to know what you think will be our future. Share your comments and thoughts. Stay safe everyone!
 
 [youtube]: https://www.youtube.com/watch?v=jzbSgBBrbI8
 [spark]: https://www.spark.co.nz/
