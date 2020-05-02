@@ -19,7 +19,7 @@ This should be one of the easiest changes that we could all adopt. Most of us ha
 
 ##### **New norms for monetization**
 
-Work from home definitely brings a lot of benefits to everyone involved, but at the same time it also add new challenges. And one of the main ones that I foresee is business owners would find it hard to evaluate the performance of their employee and making people accountable for their work. We all need to accept that not everyone our self-motivated and this would lead smart entrepreneurs to look into newer ways to monetize their staff. That might be a combination of existing salary system with a combination of other incentives to motivate people to work genuinely and on time.
+Work from home definitely brings a lot of benefits to everyone involved, but at the same time it also add new challenges. And one that I foresee is business owners would find it challenging to evaluate the performance of their employee and making people accountable for their work. We all need to accept that not everyone our self-motivated and this would lead smart entrepreneurs to look into newer ways to monetize their staff. That might be a combination of existing salary system with a combination of other incentives to motivate people to work genuinely and on time.
 
 ##### **Flat hierarchy**
 
