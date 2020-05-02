@@ -19,11 +19,11 @@ This should be one of the easiest changes that we could all adopt. Most of us ha
 
 ##### **New norms for monetization**
 
-Work from home definitely brings a lot of benefits to everyone involved, but at the same time it also add new challenges. And one that I foresee is business owners would find it challenging to evaluate the performance of their employee and making people accountable for their work. We all need to accept that not everyone our self-motivated and this would lead smart entrepreneurs to look into newer ways to monetize their staff. That might be a combination of existing salary system with a combination of other incentives to motivate people to work genuinely and on time.
+Work from home definitely brings a lot of benefits to everyone involved, but at the same time it also add new challenges. And one that I foresee is, business owners would find it challenging to evaluate the performance of their employee and making people accountable for their work. We all need to accept that not everyone is self-motivated. This would lead smart entrepreneurs to look into newer ways to monetize their staff. It might be a combination of existing salary system or other incentives to motivate people to work genuinely and on time.
 
 ##### **Flat hierarchy**
 
-With the above changes in place, most organizations would see it beneficial to flatten the organization hierarchy. This means that our traditional means of management would go away and probably new ones would arise. [Spark New Zealand][spark] is a great [case study][casestudy] for this and they have been doing it pretty well for a while.
+With the above changes in place, most organizations would see it beneficial to flatten the organization hierarchy. This means that our traditional  management system would go away and probably new ones would arise. It is also likely that we would soon see some new startups that will help us better monitor and manage work from home. [Spark New Zealand][spark] is a great [case study][casestudy] for agile or flat organization, and they have been doing it pretty well.
 
 ##### **Health policies everywhere**
 
