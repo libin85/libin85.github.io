@@ -23,7 +23,7 @@ Work from home definitely brings a lot of benefits to everyone involved, but at 
 
 ##### **Flat hierarchy**
 
-With the above changes in place, most organizations would see it beneficial to flatten the organization hierarchy. This means our traditional  management system might go away and probably new ones would arise. It is also likely that we would soon see some new startups that will help us better monitor and manage work from home. [Spark New Zealand][spark] is a great [case study][casestudy] for agile or flat organization, and they have been doing it pretty well.
+With the above changes in place, most organizations would see it beneficial to flatten the organization hierarchy. This means our traditional  management system might go away and probably new ones would arise. It is also likely that we would soon see new startups that will help us better monitor and manage work from home. [Spark New Zealand][spark] is a great [case study][casestudy] for agile or flat organization, and they have been doing it pretty well.
 
 ##### **Health policies everywhere**
 
