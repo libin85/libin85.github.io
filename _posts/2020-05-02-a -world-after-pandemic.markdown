@@ -15,7 +15,7 @@ So what might be these new changes, and are we ready for it?
 ##### **Work from home**
 
 [youtube]: https://www.youtube.com/watch?v=jzbSgBBrbI8
-This should be one of the easiest changes that we could all adopt. Most of us have got a fair understanding of how it works  and have experienced it either during this period or in the past. So does that mean there are no more offices? Absolutely not! We most likely have small and more functional office spaces that would act like a hub, where team member could come in as needed. I would recommend you to view this [video][youtube] where my good friend Nish Anil talks about working from home.
+This should be one of the easiest changes that we could all adopt. Most of us have got a fair understanding of how it works  and have experienced it either during this period or in the past. So does that mean there are no more offices? Absolutely not! We most likely have small and more functional office spaces that would act like a hub, where team members could come in as needed. I would recommend you to view this [video][youtube] where my good friend Nish Anil talks about working from home.
 
 ##### **New norms for monetization**
 
