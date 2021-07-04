@@ -6,7 +6,7 @@ categories: [Xamarin]
 tags: [Xamarin, Shell]
 ---
 
-Xamarin has become the de-facto standard for building cross-platform mobile apps. In the last 8 years that we have been using xamarin, there has been a lot of big and small changes. And one that clearly stood-apart, and influenced most of us, was the introduction of Xamarin.Forms. Xamarin.Forms offers some great capabilities to mobile developers to re-use native UI across Android, iOS and UWP. This was something truly revolutionary. But inspite all the great features and goodness of Xamarin.Forms there was certainly some pain-points that the developer community raised in various forums. Xamarin.Forms Shell and Visual address most of these issues, and I truly believe this would be the next big change in the mobile developer world.
+Xamarin has become the de-facto standard for building cross-platform mobile apps. In the last 8 years that we have been using xamarin, there has been a lot of big and small changes. And one that clearly stood-apart, and influenced most of us, was the introduction of Xamarin.Forms. Xamarin.Forms offers some great capabilities to mobile developers to re-use native UI across Android, iOS and UWP. This was something truly revolutionary. But inspite all the great features and goodness of Xamarin.Forms there was certainly some pain-points that the developer community raised in various forums. Xamarin.Forms Shell and Visual address most of these issues.
 
 In this blog we will look into what shell is, and how it helps developers to better organise code and build mobile apps faster.
 
