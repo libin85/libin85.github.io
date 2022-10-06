@@ -1,6 +1,6 @@
 ---
 title:  "Security - A forgotten tale in SDLC"
-date:   2022-10-06 02:30:00
+date:   2022-10-05 02:30:00
 comments: true
 categories: [DevSecOps]
 tags: [CyberSecurity, DevSecOps, SoftwareDevelopment]
