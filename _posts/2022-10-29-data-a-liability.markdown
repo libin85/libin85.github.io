@@ -1,5 +1,6 @@
 ---
 title:  "Data: A colossal liability"
+description: "With the steady increase in cyber security incidents around the world, data is becoming more and more of a liability for most organizations. Since cloud storage prices have decreased and scaling up storage options has become easier, businesses and other organisations save any data they can and shy away from deleting."
 date:   2022-10-29 20:30:00
 comments: true
 categories: [CyberSecurity]
