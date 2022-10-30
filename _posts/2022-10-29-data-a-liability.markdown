@@ -1,6 +1,6 @@
 ---
 title:  "Data: A colossal liability"
-description: "With the steady increase in cyber security incidents around the world, data is becoming more and more of a liability for most organizations. Since cloud storage prices have decreased and scaling up storage options has become easier, businesses and other organisations save any data they can and shy away from deleting."
+excerpt_separator: <!--more-->
 date:   2022-10-29 20:30:00
 comments: true
 categories: [CyberSecurity]
@@ -10,7 +10,7 @@ tags: [CyberSecurity, Data, SoftwareDevelopment]
 ![data cover image]({{ site.baseurl }}/images/data.jpg "data cover image")
 
 With the steady increase in cyber security incidents around the world, data is becoming more and more of a liability for most organizations. Since cloud storage prices have decreased and scaling up storage options has become easier, businesses and other organisations save any data they can and shy away from deleting. Most analysts consider this type of data incredibly valuable, since it allows them to gain insight into operations and even predict the future. But unfortunately it’s the same data that attracts the intruders.
-
+<!--more-->
 
 I consider data a liability, like we do a loan. Loans are often obtained with well-intended intentions, but if they are not managed well, they can turn into a disaster. Upon submitting an application for a loan, the bank does all it can to ensure it is the right amount and the right reason before approving it.But do we do any checks when we save the data? Do we check if we need that data? How long do we need that data for? What measures do we have to protect it? Are our developers and other employees trained to handle them in a safe manner?
 
