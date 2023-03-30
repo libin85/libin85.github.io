@@ -7,9 +7,10 @@ categories: [AI]
 tags: [AI, LowCode, GPT]
 ---
 
-![ai cover image]({{ site.baseurl }}/images/ai_software.jpg "ai cover image")
+![ai cover image]({{ site.baseurl }}/images/ai_software.png "ai cover image")
 
 We live in a world of rapid technological advancements, where automation and artificial intelligence (AI) have become crucial components of our daily lives. In the realm of software development, low-code platforms have gained popularity as a way to expedite the development process and increase efficiency. However, the future of development is set to evolve even further, with AI-generated low code becoming the new standard. Imagine a world where developers no longer need to write code from scratch; instead, AI systems generate it, allowing developers to review and publish with ease. The key factor: a fully unlocked system, free from the constraints of traditional low-code platforms. Let's explore this inspiring vision of the future of development.
+<!--more-->
 
 ##### **The AI Revolution in Software Development**
 The rise of AI has brought forth a paradigm shift in the software development landscape. Gone are the days of time-consuming, manual coding. With AI-generated low code, developers can now focus on higher-level tasks, such as designing the architecture, identifying requirements, and ensuring the software meets end-users' needs. The AI system not only generates the code but does so in a way that is open and unlocked, preventing vendor lock-in and enabling full customization and flexibility.
