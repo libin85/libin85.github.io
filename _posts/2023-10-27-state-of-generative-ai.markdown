@@ -1,7 +1,7 @@
 ---
 title:  "State of Generative AI: An Evolving Landscape"
 excerpt_separator: <!--more-->
-date:   2023-10-27 07:30:00
+date:   2023-10-27git 07:30:00
 comments: true
 categories: [AI]
 tags: [AI, ChatGPT, SoftwareDevelopment]
