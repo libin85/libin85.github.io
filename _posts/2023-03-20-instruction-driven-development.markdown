@@ -3,7 +3,7 @@ title:  "Embracing Instruction Driven Development (IDD) in the AI Era"
 excerpt_separator: <!--more-->
 date:   2023-03-29 20:30:00
 comments: true
-categories: [SoftwareDevelopment]
+categories: [AI]
 tags: [AI, ChatGPT, SoftwareDevelopment, LowCode]
 ---
 
